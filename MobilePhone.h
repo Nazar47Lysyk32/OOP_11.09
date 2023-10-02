@@ -10,7 +10,7 @@ public:
     void turnOn();
     void turnOff();
 
-    // Використання компонентів для різних операцій
+    
     void useComponent(Component& component);
 
 private:
