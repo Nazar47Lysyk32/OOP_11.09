@@ -6,7 +6,7 @@ class Component {
 public:
     Component(const string& name);
 
-    // Приклад функціональності компонента
+    
     void doSomething();
 
  private:
